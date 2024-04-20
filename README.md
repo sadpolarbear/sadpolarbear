@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+
 <!--
 **sadpolarbear/sadpolarbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +19,23 @@ Here are some ideas to get you started:
 -->
 
 
-
-
 <!--   my-skils -->
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+<div align="left">
+  <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 200px>
+</div>
 
 
-<!--   my-ticker -->    
+
+
+
+
+
+
+
+
+
+<!--   my-ticker -->  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+sad+polarbear;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 
@@ -34,8 +47,15 @@ Here are some ideas to get you started:
 
 
 
+### Touch Me
 
 
+
+<div align="center">
+  <img src="https://octodex.github.com/images/justicetocat.jpg" width="300" height="300">
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
+</div>
 
 
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-### Touch Me
+## 📫 How to Reach me
 
 
 
@@ -76,8 +76,10 @@ Here are some ideas to get you started:
 
 
 
+
+
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph:
 
 
 

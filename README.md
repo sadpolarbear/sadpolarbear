@@ -27,8 +27,34 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+
+
+
+
+
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![sadpolarbear's github stats](https://github-readme-stats.vercel.app/api?username=sadpolarbear&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sadpolarbear&theme=radical&layout=compact) |
+
+
+
+
+
 
 
 

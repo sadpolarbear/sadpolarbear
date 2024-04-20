@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+sad+polarbear;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadpolarbear"></img>
 
 
 
@@ -42,6 +42,12 @@ Here are some ideas to get you started:
 
 
 <!--   snake -->
+
+
+![](https://raw.githubusercontent.com/sadpolarbear/sadpolarbear/main/assets/github-contribution-grid-snake.svg)
+
+
+
 
 
 <!--   green snake -->
